@@ -1,6 +1,7 @@
 ﻿# Furniture Store Promotion Website
 
 This project developed a promotional website for a furniture store using HTML, CSS and JavaScript. This website aims to showcase the products of the furniture store, provide information about the brand and attract users to the store.
+https://furnituresite1.netlify.app/
 
 ## Features
 
